@@ -1,0 +1,173 @@
+@font-face {
+    font-family: "AkiraFont";
+    src: url(Akira.otf);
+}
+*{
+    user-select: none;
+}
+html {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background-image: linear-gradient(black, Green)
+}
+
+#split1 {
+    position: relative;
+    top: -40px;
+}
+#split2 {
+    color: white;
+    top: -355px;
+    position: relative;
+}
+#title {
+    color: white;
+    font-size: 20px;
+    font-family: AkiraFont;
+    white-space: nowrap;
+}
+#about_the_app {
+    color: white;
+    font-size: 8px;
+    position: relative;
+    font-family: AkiraFont;
+    top: -35px;
+    left: 200px;
+    color: green;
+    text-decoration:none
+
+}
+#drop1 {
+    background-color: #ddd;
+    position: relative;
+    top: -30px;
+    border-radius: 10px;
+    height: 100px;
+    background: linear-gradient(white, transparent)
+}
+#imagedrop1 {
+    position: relative;
+    left: 5px;
+    top: -120px;
+    border-radius: 50px;
+    align-self: center;
+    width: 80px;
+}
+#drop1_title {
+    position: relative;
+    color: black;
+    font-family: AkiraFont;
+    font-size: 13px;
+    left: 95px;
+    top: 20px;
+}
+#drop1_description {
+    font-family: AkiraFont;
+    position: relative;
+    font-size: 10px;
+    left: 100px;
+    top: 15px;
+}
+#drop2 {
+    position: relative;
+    top: -110px;
+    background-color: #ddd;
+    border-radius: 10px;
+    height: 100px;
+    background: linear-gradient(white, transparent)
+}
+#drop2_title {
+    position: relative;
+    color: black;
+    font-family: AkiraFont;
+    font-size: 13px;
+    left: 95px;
+    top: 20px;
+}
+#drop2_description {
+    font-family: AkiraFont;
+    position: relative;
+    font-size: 10px;
+    left: 100px;
+    top: 15px;
+}
+#imagedrop2 {
+    position: relative;
+    left: 5px;
+    top: -200px;
+    border-radius: 50px;
+    align-self: center;
+    width: 80px;
+}
+#drop3 {
+    position: relative;
+    top: -190px;
+    background-color: #ddd;
+    border-radius: 10px;
+    height: 100px;
+    background: linear-gradient(white, transparent)
+}
+#drop3_title {
+    position: relative;
+    color: black;
+    font-family: AkiraFont;
+    font-size: 13px;
+    left: 95px;
+    top: 20px;
+}
+#drop3_description {
+    font-family: AkiraFont;
+    position: relative;
+    font-size: 10px;
+    left: 100px;
+    top: 15px;
+}
+#imagedrop3 {
+    position: relative;
+    left: 5px;
+    top: -280px;
+    border-radius: 50px;
+    align-self: center;
+    width: 80px;
+}
+#drop4 {
+    position: relative;
+    top: -270px;
+    background-color: #ddd;
+    border-radius: 10px;
+    height: 100px;
+    background: linear-gradient(white, transparent)
+}
+#drop4_title {
+    position: relative;
+    color: black;
+    font-family: AkiraFont;
+    font-size: 13px;
+    left: 95px;
+    top: 20px;
+}
+#drop4_description {
+    font-family: AkiraFont;
+    position: relative;
+    font-size: 10px;
+    left: 100px;
+    top: 15px;
+}
+#imagedrop4 {
+    position: relative;
+    left: 5px;
+    top: -360px;
+    border-radius: 50px;
+    align-self: center;
+    width: 80px;
+}
+#discord {
+    color: white;
+    font-family: AkiraFont;
+    position: relative;
+    top: -355px;
+    text-decoration:none;
+
+}
